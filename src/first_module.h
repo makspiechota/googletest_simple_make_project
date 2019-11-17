@@ -1,0 +1,4 @@
+class FirstModule {
+public:
+    FirstModule();
+};
